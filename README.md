@@ -1,2 +1,1 @@
-# WebQR
-WebQR
+# Java Box
